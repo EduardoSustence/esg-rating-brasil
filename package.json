@@ -2,7 +2,10 @@
   "name": "esg-platform",
   "version": "1.0.0",
   "private": true,
-  "scripts": {
-    "build": "echo build ok"
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "recharts": "^2.8.0",
+    "lucide-react": "^0.400.0"
   }
 }
